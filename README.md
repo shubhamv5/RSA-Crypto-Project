@@ -3,6 +3,7 @@ A cryptographic interface based on the principle of RSA Cryptography and built i
 The interface contains 2 types of data files :
 
 1) main database (database.txt) : used to store name of all the registered users along with their public keys.
+
 2) user messages (name.txt) : a separate file for each user consisting of cryptic messages sent to him.
 
 Functioning :
